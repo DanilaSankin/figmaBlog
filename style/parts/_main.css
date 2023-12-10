@@ -36,7 +36,6 @@
 .blog__image {
     width: 1207px;
     height: 486px;
-    background: url(img/blog.jpg), lightgray 50% / cover no-repeat;
     margin-bottom: 20px;
 }
 
