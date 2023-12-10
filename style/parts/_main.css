@@ -1,0 +1,148 @@
+.main {
+    width: 1920px;
+    margin: auto;
+}
+
+.contact {
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.contact__title {
+    color: #3D3017;
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    line-height: normal;
+    margin-bottom: 10px;
+}
+
+.contact__nav {
+    color: #3D3017;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 166px;
+}
+
+.blog {
+    margin: auto;
+    width: 1207px;
+    margin-bottom: 150px;
+}
+
+.blog__image {
+    width: 1207px;
+    height: 486px;
+    background: url(img/blog.jpg), lightgray 50% / cover no-repeat;
+    margin-bottom: 20px;
+}
+
+.blog__header {
+    color: #9B6842;
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: normal;
+    
+}
+
+.blog__date-comments {
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+
+.blog__text {
+    width: 1170px;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 13px;
+}
+
+.blog__thesis {
+    margin-left: 19px;
+    margin-bottom: 15px;
+}
+
+.blog__thesis-element {
+    color: #9B6842;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: normal;
+    list-style: disc;
+}
+
+.low-paragraph {
+    margin-bottom: 15px;
+}
+
+.newsletter {
+    position: relative !important;
+    display: flex;
+    width: 1170px;
+    margin: auto;
+    margin-bottom: 100px;
+}
+
+.newsletter_card {
+    margin-left: 29px;
+    padding: 60px 0 50px 0;
+}
+
+.newsletter__title {
+    width: 568px;
+    color: #000;
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 42px;
+    font-weight: 600;
+    line-height: 60px;
+    margin-bottom: 15px;
+}
+
+.newsletter__text {
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 36px;
+}
+
+.newsletter__input {
+    
+    width: 570px;
+    height: 61px;
+    border: 1px solid #3D3017;
+}
+
+.newsletter__input::placeholder {
+    color: #000;
+    font-family: 'Fahkwang', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 20px;
+}
+
+.newsletter__icon ion-icon {
+    position: absolute;
+    top: 259px;
+    right: 7px;
+    background-color: #3D3017;
+    width: 32px;
+    height: 23px;
+    padding: 16px 13px 15px 14px;
+    color: #fff;
+}
